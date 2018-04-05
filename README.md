@@ -2,9 +2,9 @@
 # CONNECT TECH - SOCIAL NETWORK
 ***
 
-Red social donde podras compartir posts, noticias, eventos relacionadas al mundo Tech. 
+Red social donde podras compartir posts, noticias y eventos relacionados al mundo Tech. 
 
-![image](assets/images/preview.PNG)
+![image](https://github.com/SteffAhv/connecTech/raw/master/assets/images/preview.PNG)
 
 **Desarrollado para**
 ***
@@ -53,6 +53,7 @@ Tenemos una contenedor enlazado a un evento de click, para realizar una nueva pu
 ![image](https://github.com/brendamesias/connecTech/blob/master/assets/images/capture6.PNG?raw=true)
 
 ### Herramientas Utilizadas 
+
 - Html5
 - Css3
 - jQuery
@@ -60,8 +61,4 @@ Tenemos una contenedor enlazado a un evento de click, para realizar una nueva pu
 - Bootstrap 3
 - Font Awesome
 
-### Integrantes 
 
-1.- Brenda Mesias Villar
-
-2.- Esthefany Humpiri Vargas
