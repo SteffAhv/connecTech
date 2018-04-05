@@ -1,9 +1,16 @@
-![logo](https://github.com/brendamesias/connecTech/blob/master/assets/images/laboratoria.png?raw=true)
 
-# Crea tu propia Red Social 
+# CONNECT TECH - SOCIAL NETWORK
+***
 
+Red social donde podras compartir posts, noticias, eventos relacionadas al mundo Tech. 
+
+![image](assets/images/preview.PNG)
+
+**Desarrollado para**
+***
+[Laboratoria](http://laboratoria.la)
 ### Público Objetivo
-Nuestra red social busca integrar y conectar a todas las personas interesadas en el area teecnologica, estudiantes, profesores, desarrolladores , diseñadores.
+Nuestra red social busca integrar y conectar a todas las personas interesadas en el area tecnologica, estudiantes, profesores, desarrolladores , diseñadores.
 
 ### Proceso de Ux Design 
 - Identificamos el problema : Actualmente no existe una aplicación donde se puedan compartir eventos, articulos, meet-ups, dudas sobre tecnología. 
